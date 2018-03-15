@@ -1,6 +1,6 @@
 # RNboilerplate
 
-A React-native boilerplate with api integration (Chuck Norris facts).
+A React-native boilerplate. Not affected by the MacOS Bugs.
 
 ## Getting Started
 ```
@@ -15,11 +15,3 @@ npm install react-native-rename -g
 ```
 react-native-rename YourNewApp
 ```
-
-## Authors
-* **Ali Ayyad**
-
-
-## Acknowledgments
-
-* These guys are awesome! https://api.chucknorris.io
